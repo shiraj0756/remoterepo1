@@ -1,1 +1,4 @@
 This is feature 2 File
+Before stashs
+New Line
+Second Line
