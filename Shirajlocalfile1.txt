@@ -3,4 +3,10 @@ local change by ak I am updating it locallys
 1
 2
 3
+<<<<<<< Updated upstream
 4
+=======
+4 -- This change is by shiraj 4 before stash
+5 -- This change is by shiraj 5 before stash
+6 -- This change is by shiraj 6 before stash
+>>>>>>> Stashed changes
